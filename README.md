@@ -1,4 +1,4 @@
-# Mysql（# Python（基于v3.5.2）
+# Mysql（ Ver 14.14 Distrib 5.7.21）
 
 
 ###  一、小例子<br>
